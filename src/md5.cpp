@@ -1,6 +1,7 @@
 #include <cassert>
 #include <cstring>
 #include <iostream>
+#include <iso646.h>
 
 #include "conf.h"
 #include "md5.h"

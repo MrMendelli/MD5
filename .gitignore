@@ -34,3 +34,4 @@ makefile
 config.*
 autom4te.cache
 conf.*
+build/
