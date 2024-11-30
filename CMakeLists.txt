@@ -15,7 +15,7 @@ else()
   set (MD5_BIG_ENDIAN 0)
 endif()
 set (MD5_DEBUG 0)
-configure_file(src/conf.h.in src/conf.h @ONLY)
+configure_file(src/configuration.h.in src/conf.h @ONLY)
 project(MD5)
 
 add_library(MD5

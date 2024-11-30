@@ -1,0 +1,2 @@
+#cmakedefine01 MD5_BIG_ENDIAN
+#cmakedefine01 MD5_DEBUG
