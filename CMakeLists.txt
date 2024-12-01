@@ -22,3 +22,4 @@ add_library(MD5
     src/md5.cpp
 )
 include_directories(${CMAKE_CURRENT_BINARY_DIR}/src)
+target_include_directories(MD5 PUBLIC src)
